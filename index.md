@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Welcome to learning C! 
 
-You can use the [editor on GitHub](https://github.com/marcuspaz/C/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# The basics: 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1) **#include <stdio.h> needed to run the line of code that starts with printf**
 
-### Markdown
+2) **int main() { }; starting point of any code in C and all the code runs inside the curly braces first**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3) **// output a line: this is a comment meaning not part of the code block but a message **
 
-```markdown
-Syntax highlighted code block
+## Syntax and Errors: 
 
-# Header 1
-## Header 2
-### Header 3
+1) **Case sensitivity: most words in code will be in lowercase unless within quotes and comments**
 
-- Bulleted
-- List
+2) **The semicolon: all statements like printf() need to end with a semicolon which identifies the end of the statement and needed for the code to run correctly**
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marcuspaz/C/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+3) **Double quotes: known as a string which must always be surrounded by double quotes **
