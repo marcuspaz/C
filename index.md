@@ -14,4 +14,8 @@
 
 2) **The semicolon: all statements like printf() need to end with a semicolon which identifies the end of the statement and needed for the code to run correctly**
 
-3) **Double quotes: known as a string which must always be surrounded by double quotes **
+3) **Double quotes: known as a string which must always be surrounded by double quotes**
+
+4) **\n and \t: known as escape sequences and are meant to be placed within double quotes**
+
+5) 
