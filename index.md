@@ -18,4 +18,14 @@
 
 4) **\n and \t: known as escape sequences and are meant to be placed within double quotes**
 
-5) 
+5) **gcc: application or GNU compiler collection used to compile C programs**
+
+## Variables
+
+1) **Names can be composed of upper and lower case letters, numbers and underscores**
+
+2) **The first character must be a letter (upper or lowercase)**
+
+3) **No keywords are allowed as the full name (int not allowed but int_count would**
+
+4) 
